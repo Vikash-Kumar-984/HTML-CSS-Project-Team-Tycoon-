@@ -6,4 +6,6 @@ The website contain the theme of Team Tycoon which is working on the improvement
 
 Under the More  Info. Option on website ,the user redirects to the linkedin page of the Team Tycoon Website.
 
+Website link: https://vikash-kumar-984.github.io/HTML-CSS-Project-Team-Tycoon-/
+
 ~ Vikash Kumar :)
